@@ -7,7 +7,7 @@ body{
 	min-height: 100vh;
 	display: grid;
 	place-items: center;
-	background: #eba3a3;
+	background-image: url(bg.jpg);
 }
 .main{
 	position: relative;
@@ -16,7 +16,7 @@ body{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: #b0d8d3;
+	background: #e3a6ff;
 	border-radius: 8px;
 	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
 	 inset -5px -5px 15px rgba(255,255,255,0.1),
@@ -32,7 +32,7 @@ body{
 	top: 10px;
 	left: 30px;
 	font-size: 25px;
-	color: #eba3a3;
+	color: #a1f4fa;
 }
 .main #logo i{
 	margin-right: 15px;
@@ -74,9 +74,9 @@ input[type="range"]::-webkit-slider-thumb{
 	-webkit-appearance: none;
 	height: 10px;
 	width: 10px;
-	background: #eba3a3;
+	background: #a1f4fa;
 	cursor: pointer;
-	box-shadow: -415px 0 0 400px #eba3a3;
+	box-shadow: -415px 0 0 400px #a1f4fa;
 }
 .right input[type=range]{
 	width: 40%;
@@ -103,7 +103,7 @@ input[type="range"]::-webkit-slider-thumb{
 .left .volume i{
 	cursor: pointer;
 	padding: 8px 12px;
-	background: #eba3a3;
+	background: #a1f4fa;
 }
 .left .volume i:hover{
 	background: rgba(245,245,245,0.1);
@@ -139,7 +139,7 @@ input[type="range"]::-webkit-slider-thumb{
 	cursor: pointer;
 	outline: none;
 	transition: 0.5s;
-	background: #eba3a3;
+	background: #a1f4fa;
 	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
 	 inset -5px -5px 15px rgba(255,255,255,0.1),
 	 5px 5px 15px rgba(0,0,0,0.3),
@@ -182,7 +182,7 @@ input[type="range"]::-webkit-slider-thumb{
 	border: none;
 	padding: 5px 7px;
 	color: #fff;
-	background: rgba(255,255,255,0.2);
+	background: #22ebc3;
 	outline: none;
 	border-radius: 10px;
 	box-shadow: inset 2px 2px 5px rgba(0,0,0,0.2),
@@ -191,10 +191,10 @@ input[type="range"]::-webkit-slider-thumb{
 	 -5px -5px 15px rgba(255,255,255,0.1);
 }
 #play{
-	background: #148F77;
+	background: #22ebc3;
 }
 .right button:hover{
-	background: #148F77;
+	background: #22ebc3;
 }
 .right i:before{
 	color: #fff;

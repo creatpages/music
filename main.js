@@ -26,101 +26,25 @@ let track = document.createElement('audio');
 
 //All songs list
 let All_song = [
-   {
-     name: "How you like that workout remix",
-     path: "music/1.mp3",
-     img: "image/img1.jpg",
-     singer: "BlackPink"
-   },
-   {
-     name: "Believer",
-     path: "music/2.mp3",
-     img: "image/img2.jpg",
-     singer: "Imagine Dragons"
-   },
-   {
-     name: "Let me love you",
-     path: "music/3.mp3",
-     img: "image/img3.jpg",
-     singer: "Justin Bieber"
-   },
-   {
-     name: "How you like that",
-     path: "music/4.mp3",
-     img: "image/img4.jpg",
-     singer: "Blackpink"
-   },
-   {
-     name: "Faded",
-     path: "music/5.mp3",
-     img: "image/img5.jpg",
-     singer: "Alan Walker"
-   },
-   {
-	name: "Hall of fame",
-	path: "music/6.mp3",
-	img: "image/img6.jpg",
-	singer: "The Script"
-  },
-  {
-	name: "yummy",
-	path: "music/7.mp3",
-	img: "image/img7.jpg",
-	singer: "Justin Bieber"
-  },
+   
   {
 	name: "sugar",
-	path: "music/8.mp3",
-	img: "image/img8.jpg",
+	path: "8.mp3",
+	img: "img8.jpg",
 	singer: "Maroon 5"
   },
   {
 	name: "Taki Taki",
-	path: "music/9.mp3",
-	img: "image/img9.jpg",
+	path: "9.mp3",
+	img: "img9.jpg",
 	singer: "Dj Snake"
   },
   {
 	name: "Call me by your Name",
-	path: "music/10.mp3",
-	img: "image/img10.jpg",
+	path: "10.mp3",
+	img: "img10.jpg",
 	singer: "Montero"
-  },
-  {
-	name: "Without Me",
-	path: "music/11.mp3",
-	img: "image/img11.jpg",
-	singer: "Eminem"
-  },
-  {
-	name: "Love the way you Lie",
-	path: "music/12.mp3",
-	img: "image/img12.jpg",
-	singer: "Eminem"
-  },
-  {
-	name: "Instrumental",
-	path: "music/13.mp3",
-	img: "image/img13.jpg",
-	singer: "Happy, calm"
-  },
-  {
-	name: "Instrumental",
-	path: "music/14.mp3",
-	img: "image/img14.jpg",
-	singer: "Happy, Rock"
-  },
-  {
-	name: "Instrumental",
-	path: "music/15.mp3",
-	img: "image/img15.jpg",
-	singer: "Nature, Chill"
-  },
-  {
-	name: "Instrumental",
-	path: "music/16.mp3",
-	img: "image/img16.jpg",
-	singer: "Acoustic"
+  
   }
 ];
 
